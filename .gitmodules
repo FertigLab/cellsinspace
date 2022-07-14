@@ -1,0 +1,6 @@
+[submodule "breastcancer-hypoxia"]
+	path = breastcancer-hypoxia
+	url = https://github.com/jeanettejohnson/breastcancer-hypoxia.git
+[submodule "pycogaps"]
+	path = pycogaps
+	url = https://github.com/FertigLab/pycogaps.git
